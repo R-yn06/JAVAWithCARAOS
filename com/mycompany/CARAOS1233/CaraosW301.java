@@ -9,7 +9,7 @@
  */
 import java.util.Scanner; 
 
-public class W301{ 
+public class CaraosW301{ 
 
     public static void main(String[] args) { 
 
@@ -70,4 +70,5 @@ public class W301{
    
 
 } 
+
 
