@@ -8,7 +8,7 @@
  * @author Admin
  */
   import javax.swing.JOptionPane;
-public class Classroom {
+public class ValentineProposal {
     public static void main(String[] args) {
 
         String name = JOptionPane.showInputDialog(null, "Hello Baby! enter your name:");
@@ -58,5 +58,6 @@ public class Classroom {
         }
     }
 }
+
 
 
