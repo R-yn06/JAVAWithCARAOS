@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 package com.mycompany.CARAOS1233;
-=======
->>>>>>> 1facf52651e88109db1fea9d803c962bbbf2e651
+
 import java.util.Scanner;
 import java.lang.Math;
 
