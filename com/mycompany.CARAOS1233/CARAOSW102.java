@@ -1,4 +1,4 @@
-package com.mycompany.CARAOS1233;
+
 
 /* main function, Good Day Sir, I wanted to experiment with functions using Java hence
  I made a function for Printing and conversion - Ryan Caraos*/  
